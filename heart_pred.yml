@@ -1,0 +1,4 @@
+name: herat_disease_env
+channels:
+  - defaults
+prefix: C:\Users\Yogeshwar\anaconda\envs\herat_disease_env
